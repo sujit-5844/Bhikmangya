@@ -8,7 +8,7 @@
   "server": {
     "ip": "Bhikmanges.aternos.me",
     "port": 25615,
-    "version": "1.21.1"
+    "version": "26.1.1"
   },
   "position": {
     "enabled": true,
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "chup!",
         "I like to play Minecraft!"
       ]
     },
